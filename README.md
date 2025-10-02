@@ -1,1 +1,1 @@
-print("Hello world")
+https://85jdle.mimo.run/index.html
